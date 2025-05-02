@@ -12,3 +12,5 @@ app.use('/api/carts', cartsRouter);
 app.listen(PORT, () => {
     console.log(`Servidor escuchando en http://localhost:${PORT}`);
 });
+
+//Consulta profe, yo estoy trabajando en Epidata y se usa mucho el stack TypeScript,React, Node.js y Express. podré enviarle las siguientes entregas en Ts o lo meto en un problema con Coderhouse?
